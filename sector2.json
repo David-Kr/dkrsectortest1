@@ -1,6 +1,6 @@
 [
-  https://csas.cz,
-  https://seznam.cz,
-  https://demo-sep.azurewebsites.net/callback,
-  https://oidcdebugger.com/debug
+  "https://csas.cz",
+  "https://seznam.cz",
+  "https://demo-sep.azurewebsites.net/callback",
+  "https://oidcdebugger.com/debug"
 ]
